@@ -1,6 +1,7 @@
 30 Days of Codding 
 
 Day 6 
+This COde reveal the IP adress of any target url 
 
 
 The import socket statement imports one of Python's core networking libraries. Then, we use 
